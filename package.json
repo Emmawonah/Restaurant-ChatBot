@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot that helps customers place order for food",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "chatbot",
+    "restaurant",
+    "node.js",
+    "bot"
+  ],
+  "author": "Emmanuel Wonah Ogbudu",
+  "license": "MIT",
+  
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "moment": "^2.29.4",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21"
+  }
+}

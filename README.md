@@ -88,7 +88,7 @@ npm install
 npm run dev
 ```
 ## Base URL
-- [Restaurant-ChatBot.onrender.com](https://Restaurant-ChatBot.onrender.com/)
+- [https://restaurant-chatbot-vycf.onrender.com](https://restaurant-chatbot-vycf.onrender.com)
 
 
 <p align="right"><a href="#readme-top">back to top</a></p>
